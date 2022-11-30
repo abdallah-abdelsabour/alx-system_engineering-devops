@@ -1,0 +1,24 @@
+t add .
+git  commit -m "Display current directory contents, including hidden files"
+git push a
+ls -a
+ -
+
+ ls -la -n 
+ cp 4	5-listfilesdigitonly
+ 
+ less 4-listmorefilless
+
+ qrm 4-listmorefilless
+ ls
+ 
+ vim 5	
+
+ git status
+ rm .4-listmorefilless.swp
+ vi m lmv 4-listmorefilless
+ mv 4	
+ ls
+
+ls --help
+
